@@ -1,0 +1,164 @@
+# css
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+color: #333; /* Default text color */
+}
+ 
+header {
+display: flex;
+justify-content: space-between;
+padding: 20px;
+background-color: #000; /* Black background */
+color: #fff; /* White text */
+}
+ 
+header nav a {
+margin: 0 15px;
+text-decoration: none;
+color: #fff; /* White text */
+}
+ 
+header nav a:hover {
+color: #ff0000; /* Red hover effect */
+}
+ 
+.hero {
+text-align: center;
+padding: 50px 20px;
+background-color: #fff; /* White background */
+color: #000; /* Black text */
+}
+ 
+.hero h1 {
+font-size: 2.5em;
+color: #ff0000; /* Red heading */
+}
+ 
+.hero button {
+padding: 15px 30px;
+font-size: 1.2em;
+background-color: #ff0000; /* Red button */
+color: #fff; /* White text */
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+ 
+.hero button:hover {
+background-color: #cc0000; /* Darker red on hover */
+}
+ 
+.features {
+display: flex;
+justify-content: space-around;
+padding: 50px 20px;
+background-color: #000; /* Black background */
+color: #fff; /* White text */
+}
+ 
+.feature-item {
+text-align: center;
+}
+ 
+.feature-item h2 {
+color: #ff0000; /* Red heading */
+}
+ 
+.feature-item ul {
+list-style-type: none;
+padding: 0;
+}
+ 
+.feature-item ul li {
+margin: 10px 0;
+}
+ 
+.use-cases {
+padding: 50px 20px;
+background-color: #fff; /* White background */
+color: #000; /* Black text */
+}
+ 
+.use-cases h2 {
+text-align: center;
+color: #ff0000; /* Red heading */
+}
+ 
+.use-case-options {
+display: flex;
+justify-content: space-around;
+margin-top: 30px;
+}
+ 
+.use-case-option {
+background-color: #000; /* Black background */
+padding: 20px;
+border-radius: 10px;
+width: 30%;
+text-align: center;
+color: #fff; /* White text */
+}
+ 
+.use-case-option h3 {
+color: #ff0000; /* Red heading */
+}
+ 
+.use-case-option ul {
+list-style-type: none;
+padding: 0;
+}
+ 
+.use-case-option ul li {
+margin: 10px 0;
+}
+ 
+.scaling {
+text-align: center;
+padding: 50px 20px;
+background-color: #ff0000; /* Red background */
+color: #fff; /* White text */
+}
+ 
+.scaling h2 {
+font-size: 2em;
+}
+ 
+.cta {
+text-align: center;
+padding: 50px 20px;
+background-color: #000; /* Black background */
+color: #fff; /* White text */
+}
+ 
+.cta h2 {
+color: #ff0000; /* Red heading */
+}
+ 
+.cta button {
+padding: 15px 30px;
+font-size: 1.2em;
+background-color: #ff0000; /* Red button */
+color: #fff; /* White text */
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+ 
+.cta button:hover {
+background-color: #cc0000; /* Darker red on hover */
+}
+ 
+footer {
+text-align: center;
+padding: 20px;
+background-color: #000; /* Black background */
+color: #fff; /* White text */
+}
+ 
+footer p {
+margin: 5px 0;
+}
