@@ -1,0 +1,39 @@
+{
+  "pages": {
+    "/forum/[slug]/page": [
+      "static/chunks/[root of the server]__a6f7b132._.css",
+      "static/chunks/[root of the server]__cfd31021._.js",
+      "static/chunks/node_modules_80d18903._.js",
+      "static/chunks/components_navbar_4c1e2a33.js",
+      "static/chunks/app_layout_f0e4c1a2.js",
+      "static/chunks/node_modules_84577471._.js",
+      "static/chunks/node_modules_axios_lib_99999129._.js",
+      "static/chunks/node_modules_stream-chat_dist_browser_es_2b6b06d3.js",
+      "static/chunks/node_modules_stream-chat-react_dist_components_MessageInput_b7ef6a84._.js",
+      "static/chunks/node_modules_stream-chat-react_dist_components_Message_0ddcb442._.js",
+      "static/chunks/node_modules_stream-chat-react_dist_components_MessageList_b69fc776._.js",
+      "static/chunks/node_modules_stream-chat-react_dist_components_Poll_3c1defa9._.js",
+      "static/chunks/node_modules_stream-chat-react_dist_components_a4577aeb._.js",
+      "static/chunks/node_modules_stream-chat-react_dist_i18n_444a70b2._.js",
+      "static/chunks/node_modules_stream-chat-react_dist_57415e56._.js",
+      "static/chunks/node_modules_i18next_dist_esm_i18next_7cc58d9c.js",
+      "static/chunks/node_modules_micromark-core-commonmark_dev_lib_36a4b45d._.js",
+      "static/chunks/node_modules_@popperjs_core_lib_229f7621._.js",
+      "static/chunks/node_modules_react-player_lib_95b7b3d9._.js",
+      "static/chunks/node_modules_react-virtuoso_dist_index_m_f33d5c6a.js",
+      "static/chunks/node_modules_@react-aria_48ace210._.js",
+      "static/chunks/7fad3_14f4f5f4._.js",
+      "static/chunks/node_modules_e579ceb7._.js",
+      "static/chunks/components_chatForum_61e12c89.js",
+      "static/chunks/node_modules_stream-chat-react_dist_d93c95a2._.css",
+      "static/chunks/app_forum_[slug]_page_2ddab816.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_49a6ea35._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_43e3ffb8._.js",
+      "static/chunks/node_modules_next_dist_3bfaed20._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_be317ff2._.js"
+    ]
+  }
+}

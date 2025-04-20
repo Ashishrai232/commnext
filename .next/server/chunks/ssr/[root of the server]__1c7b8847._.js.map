@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 131, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/ashis/OneDrive/Desktop/project-hii/commnext/app/forum/%5Bslug%5D/page.js"],"sourcesContent":["import { Chat, useCreateChatClient } from 'stream-chat-react';\r\n\r\n// your Stream app information\r\nconst apiKey = 'dz5f4d5kzrue';\r\nconst userId = 'spring-union-2';\r\nconst userName = 'spring';\r\nconst userToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoic3ByaW5nLXVuaW9uLTIiLCJleHAiOjE3NDM4NDY4ODZ9.XHvatGpdddddX7lPTAYX2t62PDbe7dFBFwDaTvUfmjs';\r\n\r\nexport default async function Page({ params }) {\r\n  const client = useCreateChatClient({\r\n    apiKey,\r\n    tokenOrProvider: userToken,\r\n    userData: { id: userId },\r\n  });\r\n    const { slug } = await params;\r\n    if (!client) return <div>Setting up client & connection...</div>;\r\n\r\n    return cha\r\n  }"],"names":[],"mappings":";;;;AAAA;;;AAEA,8BAA8B;AAC9B,MAAM,SAAS;AACf,MAAM,SAAS;AACf,MAAM,WAAW;AACjB,MAAM,YAAY;AAEH,eAAe,KAAK,EAAE,MAAM,EAAE;IAC3C,MAAM,SAAS,CAAA,GAAA,qMAAA,CAAA,sBAAmB,AAAD,EAAE;QACjC;QACA,iBAAiB;QACjB,UAAU;YAAE,IAAI;QAAO;IACzB;IACE,MAAM,EAAE,IAAI,EAAE,GAAG,MAAM;IACvB,IAAI,CAAC,QAAQ,qBAAO,8OAAC;kBAAI;;;;;;IAEzB,OAAO;AACT","debugId":null}}]
+}

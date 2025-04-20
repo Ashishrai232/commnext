@@ -1,0 +1,3 @@
+{
+  "/forum/[slug]/page": "app/forum/[slug]/page.js"
+}
